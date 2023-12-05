@@ -2,12 +2,12 @@
 
 ### About me
 I'm Moe, a developer from Germany
-
+### My projects
+I pretty much make everything I work on public, even if it's unfinished.
 ### Things I use
 [![Languages](https://skillicons.dev/icons?i=py,java,cs,js,ts,elixir)](https://skillicons.dev)<br>
 [![Coding Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,gitlab)](https://skillicons.dev)<br>
 [![Other](https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,md,nginx)](https://skillicons.dev)<br>
-### Current projects
+### Current tasks
 * learning elixir
 * learning pheonix
-* yam - yet another messenger (server)
