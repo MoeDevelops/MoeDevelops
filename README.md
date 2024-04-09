@@ -41,4 +41,4 @@ I pretty much make everything I work on public
 |Shell|zsh|
 |Browser|LibreWolf|
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=true&include_all_commits=true&layout=pie&langs_count=4)
