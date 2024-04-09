@@ -36,9 +36,9 @@ I pretty much make everything I work on public
 |||
 |---|---|
 |OS|Linux|
-|Distrobution|Fedora|
+|Distribution|Fedora|
 |Desktop Environment|KDE Plasma|
 |Shell|zsh|
 |Browser|LibreWolf|
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=true&include_all_commits=true&layout=pie&langs_count=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=true&include_all_commits=true&langs_count=5)
