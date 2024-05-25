@@ -2,11 +2,7 @@
 
 ## About me
 
-I'm Moe, a developer from Germany
-
-## My projects
-
-I pretty much make everything I work on public
+I'm Moe, a software developer from Germany!
 
 ## My PC
 
@@ -21,6 +17,7 @@ I pretty much make everything I work on public
 |Monitors|2x acer 2560x1440 @ 165Hz|
 
 ### Software
+
 |Key|Value|
 |---|---|
 |OS|Linux|
@@ -29,6 +26,6 @@ I pretty much make everything I work on public
 |Shell|zsh|
 |Browser|LibreWolf|
 
-![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=true&langs_count=6)
+![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=github_dark&hide_border=true&langs_count=6)
 <br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moedevelops&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moedevelops&theme=github_dark&hide_border=true)
