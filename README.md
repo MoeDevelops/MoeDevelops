@@ -8,23 +8,11 @@ I'm Moe, a developer from Germany
 
 I pretty much make everything I work on public
 
-## Things I use
-
-### At my job
-
-[![](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,idea,md)](https://skillicons.dev)<br>
-
-### For private projects
-
-[![Languages](https://skillicons.dev/icons?i=py,elixir,ts,godot,vue)](https://skillicons.dev)<br>
-[![Coding Tools](https://skillicons.dev/icons?i=neovim,idea,git,github,gitlab)](https://skillicons.dev)<br>
-[![Other](https://skillicons.dev/icons?i=linux,bash,docker,cloudflare,md)](https://skillicons.dev)<br>
-
 ## My PC
 
 ### Hardware
 
-|||
+|Key|Value|
 |---|---|
 |CPU|i7-12700k|
 |GPU|RX 6600|
@@ -33,7 +21,7 @@ I pretty much make everything I work on public
 |Monitors|2x acer 2560x1440 @ 165Hz|
 
 ### Software
-|||
+|Key|Value|
 |---|---|
 |OS|Linux|
 |Distribution|Fedora|
@@ -41,4 +29,6 @@ I pretty much make everything I work on public
 |Shell|zsh|
 |Browser|LibreWolf|
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=true&langs_count=6)
+![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=dark&hide_border=true&langs_count=6)
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moedevelops&theme=dark&hide_border=true)
