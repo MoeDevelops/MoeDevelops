@@ -26,6 +26,6 @@ I'm Moe, a software developer from Germany!
 |Shell|zsh|
 |Browser|LibreWolf|
 
-![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=github_dark&exclude_repo=squeal&hide_border=true&langs_count=6)
+![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=github_dark&hide_border=true&langs_count=6)
 <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moedevelops&theme=github_dark&hide_border=true)
