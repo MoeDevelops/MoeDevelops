@@ -1,8 +1,19 @@
 # Hi!
 
-## About me
+## Stuff I like
 
-I'm Moe, a software developer from Germany!
+- Functional programming
+- `|>` Pipe Operator
+- Errors as values
+- Immutability
+- Fun
+
+## My Stats
+
+![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=github_dark&hide_border=true&langs_count=6)
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moedevelops&theme=github_dark&hide_border=true)
+
 
 ## My PC
 
@@ -25,7 +36,3 @@ I'm Moe, a software developer from Germany!
 |Desktop Environment|KDE Plasma|
 |Shell|zsh|
 |Browser|LibreWolf|
-
-![Most used languagues](https://github-readme-stats.vercel.app/api/top-langs/?username=MoeDevelops&theme=github_dark&hide_border=true&langs_count=6)
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moedevelops&theme=github_dark&hide_border=true)
