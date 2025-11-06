@@ -6,7 +6,6 @@
 - `|>` Pipe Operator
 - Errors as values
 - Immutability
-- Fun
 
 ## My Stats
 
@@ -22,7 +21,7 @@
 |Key|Value|
 |---|---|
 |CPU|i7-12700k|
-|GPU|RX 6600|
+|GPU|RX 9070 XT|
 |RAM|2x16GB DDR4 @ 3200MHz|
 |Motherboard|Gigabyte Z690 UD DDR4|
 |Monitors|2x acer 2560x1440 @ 165Hz|
@@ -34,5 +33,5 @@
 |OS|Linux|
 |Distribution|Fedora|
 |Desktop Environment|KDE Plasma|
-|Shell|zsh|
-|Browser|LibreWolf|
+|Shell|bash|
+|Browser|Zen Browser|
